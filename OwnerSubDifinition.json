@@ -1,0 +1,22 @@
+﻿{
+    "properties": {
+        "roleName": "ownersub",
+        "description": "Owner for the whole subscription",
+        "assignableScopes": [
+            "/subscriptions/86f78685-6d6b-46f9-8c67-b80970f7bc45"
+        ],
+        "permissions": [
+            {
+                "actions": [
+                    "*"
+                ],
+                "notActions": [],
+                "dataActions": [],
+                "notDataActions": []
+                    "AssignableScopes": [
+                      "/subscriptions/<subscriptionID>/"
+                 ]
+            }
+        ]
+    }
+}
